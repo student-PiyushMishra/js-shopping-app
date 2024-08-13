@@ -27,3 +27,8 @@ html,body{
     height: auto;
     word-wrap: wrap;
 }
+.mt-5 {
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    padding-bottom: 2.5rem;
+}
