@@ -5,6 +5,4 @@ This is repository contains a simple beginner-level project in which I (@student
 <h3>This website is under development and varies of the features will come soon in this project such the cart option, search functionality and some other amazing stuffs like that!</h3>
 
 <a href="https://student-piyushmishra.github.io/js-shopping-app/">View Live Sample</a><br><br><br>
-<div style="height:fit-content;width:100%>
-<img style="margin:auto;" src="./Assets/sample.png">
-</div>
+<img src="./Assets/sample.png">
